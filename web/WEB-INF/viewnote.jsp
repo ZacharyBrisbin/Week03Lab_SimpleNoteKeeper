@@ -16,6 +16,6 @@
         <h2>View Note</h2>
         <strong>Title:</strong><p>${notes.title}</p>
         <strong>Contents:</strong><p>${notes.content}</p>
-        <a href="notes?edit">Edit</a>
+        <a href="notes?edit=hi">Edit</a>
     </body>
 </html>
